@@ -34,10 +34,10 @@ footer.footer-dark {
             }
         }
         .level-item .icon {
-            color: $secondary;
+            color: $smoke-white;
             transition: all 0.5s;
             :hover {
-                color: $smoke-white;
+                color: $primary;
             }
         }
     }
