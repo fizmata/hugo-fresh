@@ -41,7 +41,7 @@ Navbar
         color: $blue-grey;
         &.is-secondary {
             &:hover {
-                color: $primary !important;
+                color: $muted-grey !important;
             }
         }
         &.has-dropdown {
